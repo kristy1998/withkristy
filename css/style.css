@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|ZCOOL+XiaoWei");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Lora', serif; 
+	font-size: 18px;
+	margin: 10px;
+}
+
+h1, h2, h3 {
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-weight: bold;
+	margin: 20px 0px;
+}
+
+h2 {
+	margin: 30px auto;
+}
+
+ a{
+ 	text-decoration: none;
+ }
